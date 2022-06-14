@@ -5,7 +5,7 @@
 - 📝 Most of my past work has been put in the repositories of others. I hope to add more of my own work on this page soon.
 - 📞 You can reach me with the following:
   * email: mailme@rommertstraatsma.nl
-  * LinkedOn: www.linkedin.com/in/rommert-straatsma-929135234
+  * LinkedIn: www.linkedin.com/in/rommert-straatsma-929135234
 
 <!---
 mRmetr0/mRmetr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
